@@ -1,6 +1,5 @@
 ### Hi there 👋, I am Muhammad Fahimul Huq
 #### I am a Full Stack Web Developer 
-![I am a Full Stack Web Developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
 Skills: REACT / JS / HTML / CSS / SCSS / PHP / LARAVEL
