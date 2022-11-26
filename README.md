@@ -8,6 +8,19 @@ Skills: REACT / JS / HTML / CSS / SCSS / PHP / LARAVEL
 - 🌱 I’m currently learning ui/ux design 
 - 👯 I’m looking to collaborate on react / laravel projects. 
 
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MuhammadFahimulHuq)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFahimulHuq)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadFahimulHuq&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=MuhammadFahimulHuq)  
+
+![Profile views](https://gpvc.arturio.dev/MuhammadFahimulHuq)  
+
+
 <br/>
 <div align="center">
 <a href="https://linkedin.com/in/muhammad-fahimul-huq-494755181" target="_blank">
@@ -24,16 +37,3 @@ Skills: REACT / JS / HTML / CSS / SCSS / PHP / LARAVEL
 </a>  
 </div>  
   
-
-<br/>  
-[![trophy](https://github-profile-trophy.vercel.app/?username=MuhammadFahimulHuq)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFahimulHuq)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadFahimulHuq&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MuhammadFahimulHuq)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=MuhammadFahimulHuq)  
-
-![Profile views](https://gpvc.arturio.dev/MuhammadFahimulHuq)  
