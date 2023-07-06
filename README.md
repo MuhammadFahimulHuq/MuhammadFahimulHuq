@@ -2,7 +2,7 @@
 ## I am a Full Stack Web Developer. 
 #### Always looking for a new challenge, I'm always tinkering with new ideas.
 
-- 🔭 I’m currently working on euphoria. 
+- 🔭 I’m currently working on ecomclips as a full-stack developer. 
 - 🌱 I’m currently learning ui/ux design 
 - 👯 I’m looking to collaborate on react / laravel projects. 
 
