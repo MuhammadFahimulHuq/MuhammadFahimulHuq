@@ -1,38 +1,72 @@
-## Hello there!👋, I am Muhammad Fahimul Huq.
-## I am a Full Stack Web Developer. 
-#### Always looking for a new challenge, I'm always tinkering with new ideas.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f766e,100:2563eb&text=Muhammad%20Fahimul%20Huq&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Laravel%20%7C%20React%20%7C%20Shopify%20Apps&descAlignY=58&animation=fadeIn" alt="header" />
+</p>
 
-- 🔭 I’m currently working on ecomclips as a full-stack developer. 
-- 🌱 I’m currently learning ui/ux design 
-- 👯 I’m looking to collaborate on react / laravel projects. 
+<p align="center">
+  <a href="mailto:fahimul.huq85@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/muhammadfahimulhuq/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/MuhammadFahimulHuq"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-### 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=plastic&logo=Thymeleaf&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)
+## About Me
+- Senior Software Engineer with 3+ years of experience building SaaS and eCommerce products.
+- Currently at `STACKIFYA` (May 2025 - Present), shipping production systems with Laravel, React, Shopify, and CraftCMS.
+- Focused on scalable architecture, performance optimization, and clean developer workflows.
+- Based in Dhaka, Bangladesh.
 
+## Experience Snapshot
+- `STACKIFYA` | Senior Software Engineer | May 2025 - Present
+  - Leading `FarmerToFridge` eCommerce development and VPS deployment pipeline.
+  - Built a custom Shopify inventory + PO sync app (`Next.js` + Shopify Admin API + GraphQL).
+  - Scaled `DriverRecruitment.nz` (Laravel + React SaaS) with 40% process-efficiency gains.
+- `Devsnest LLC` | Software Engineer | Aug 2024 - Feb 2025
+  - Developed Shopify App Store apps (`Navidium Shipping Protection`, `Navidium Returns & Exchanges`).
+  - Improved app efficiency by 30% through database/performance optimization and mentoring.
+  - Migrated legacy raw PHP systems to Laravel for maintainability and scalability.
+- `Ecomclips` | Software Engineer / Junior Software Engineer | Dec 2022 - Aug 2024
+  - Built and shipped features for `MatchMyTees.com` and `myqbits.com`.
+  - Worked on Laravel, React, and Next.js implementations with API integrations.
 
-### 📊 GitHub Stats:
+## Tech Stack
+### Languages and Frameworks
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFahimulHuq&theme=react&hide_border=false)<br/>
+### Databases and Infrastructure
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
+### Platform and Workflow
+![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=flat-square&logo=shopify&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MuhammadFahimulHuq&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+## GitHub Analytics
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadFahimulHuq&show_icons=true&rank_icon=github&hide_border=true&title_color=0f766e&icon_color=2563eb&text_color=334155&bg_color=ffffff" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFahimulHuq&layout=compact&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff" alt="Top languages" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MuhammadFahimulHuq&hide_border=true&ring=0f766e&fire=2563eb&currStreakLabel=334155&sideLabels=334155&dates=64748b&background=ffffff" alt="GitHub streak" />
+</p>
 
-
-<br/>
-<div align="center">
-<a href="https://linkedin.com/in/muhammad-fahimul-huq-494755181" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/MuhammdFahimulHuq" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/fahimul1" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/fahim_wait4it" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+## Open To
+- Senior backend/full-stack opportunities (Laravel + React/Next.js).
+- Shopify app and headless commerce projects.
+- Product-focused teams where engineering quality and delivery speed both matter.
