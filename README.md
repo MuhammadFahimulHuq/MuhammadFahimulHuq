@@ -58,12 +58,17 @@
 
 ## GitHub Analytics
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadFahimulHuq&show_icons=true&rank_icon=github&hide_border=true&title_color=0f766e&icon_color=2563eb&text_color=334155&bg_color=ffffff" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFahimulHuq&layout=compact&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MuhammadFahimulHuq&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&title_color=0f766e&icon_color=2563eb&text_color=334155&bg_color=ffffff&v=2" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MuhammadFahimulHuq&layout=compact&langs_count=8&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff&v=2" alt="Top languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MuhammadFahimulHuq&hide_border=true&ring=0f766e&fire=2563eb&currStreakLabel=334155&sideLabels=334155&dates=64748b&background=ffffff" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadFahimulHuq&theme=github" alt="Stats fallback" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadFahimulHuq&theme=github" alt="Languages fallback" />
 </p>
 
 ## Open To
